@@ -1,0 +1,12 @@
+/home/rosen/桌面/Rosen/Task1_Detect/build/CMakeFiles/rebuild_cache.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/CMakeFiles/Detect.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/CMakeFiles/edit_cache.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Armor/CMakeFiles/rebuild_cache.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Armor/CMakeFiles/Armor.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Armor/CMakeFiles/edit_cache.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Energy_Switch/CMakeFiles/rebuild_cache.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Energy_Switch/CMakeFiles/Energy_Switch.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Energy_Switch/CMakeFiles/edit_cache.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Light/CMakeFiles/rebuild_cache.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Light/CMakeFiles/Light.dir
+/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Light/CMakeFiles/edit_cache.dir

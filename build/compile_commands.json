@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/rosen/桌面/Rosen/Task1_Detect/build",
+  "command": "/usr/bin/g++-7   -isystem /usr/local/include/opencv4 -I/home/rosen/桌面/Rosen/Task1_Detect/../Class/include -I/usr/local/include/opencv4/opencv2   -Wall -g   -std=gnu++11 -o CMakeFiles/Detect.dir/main.cpp.o -c /home/rosen/桌面/Rosen/Task1_Detect/main.cpp",
+  "file": "/home/rosen/桌面/Rosen/Task1_Detect/main.cpp"
+},
+{
+  "directory": "/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Armor",
+  "command": "/usr/bin/g++-7   -I/usr/local/include/opencv4 -I/home/rosen/桌面/Rosen/Task1_Detect/../Class/include -I/usr/local/include/opencv4/opencv2 -I/home/rosen/桌面/Rosen/Task1_Detect/Class/Armor/../../Light/include -I/home/rosen/桌面/Rosen/Task1_Detect/Class/Armor/../include   -Wall -g   -o CMakeFiles/Armor.dir/Armor.cpp.o -c /home/rosen/桌面/Rosen/Task1_Detect/Class/Armor/Armor.cpp",
+  "file": "/home/rosen/桌面/Rosen/Task1_Detect/Class/Armor/Armor.cpp"
+},
+{
+  "directory": "/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Energy_Switch",
+  "command": "/usr/bin/g++-7   -I/usr/local/include/opencv4 -I/home/rosen/桌面/Rosen/Task1_Detect/../Class/include -I/usr/local/include/opencv4/opencv2 -I/home/rosen/桌面/Rosen/Task1_Detect/Class/Energy_Switch/../include   -Wall -g   -o CMakeFiles/Energy_Switch.dir/Energy_Switch.cpp.o -c /home/rosen/桌面/Rosen/Task1_Detect/Class/Energy_Switch/Energy_Switch.cpp",
+  "file": "/home/rosen/桌面/Rosen/Task1_Detect/Class/Energy_Switch/Energy_Switch.cpp"
+},
+{
+  "directory": "/home/rosen/桌面/Rosen/Task1_Detect/build/Class/Light",
+  "command": "/usr/bin/g++-7   -I/usr/local/include/opencv4 -I/home/rosen/桌面/Rosen/Task1_Detect/../Class/include -I/usr/local/include/opencv4/opencv2 -I/home/rosen/桌面/Rosen/Task1_Detect/Class/Light/../include   -Wall -g   -o CMakeFiles/Light.dir/Light.cpp.o -c /home/rosen/桌面/Rosen/Task1_Detect/Class/Light/Light.cpp",
+  "file": "/home/rosen/桌面/Rosen/Task1_Detect/Class/Light/Light.cpp"
+}
+]
